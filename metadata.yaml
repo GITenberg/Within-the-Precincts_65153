@@ -1,0 +1,31 @@
+_repo: Within-the-Precincts_65153
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oliphant, Mrs. (Margaret)
+    aliases:
+    - Oliphant, Margaret Oliphant Wilson
+    - Oliphant, Mrs. Margaret
+    - Olyphant, Mrs.
+    - Oliphant, Mrs.
+    - Wilson, Margaret
+    - Mrs. (Margaret) Oliphant
+    - Oliphant, M. O. W. (Margaret Oliphant Wilson)
+    birthdate: 1828
+    deathdate: 1897
+    gutenberg_agent_id: '963'
+    url: http://www.gutenberg.org/2009/agents/963
+    wikipedia: https://en.wikipedia.org/wiki/Margaret_Oliphant_Oliphant
+description: ''
+gutenberg_issued: '2021-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65153'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Within the Precincts
+url: http://www.gutenberg.org/ebooks/65153
